@@ -8,3 +8,4 @@ for i in range(0, num+1):
         print('{0}:{1}, '.format(i, i * i), end='')
 
 print('}')
+
