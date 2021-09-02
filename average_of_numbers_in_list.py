@@ -8,4 +8,4 @@ def average_of_numbers(L_1):
 
 L_1 = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 RESULT = average_of_numbers(L_1)
-print("average is", round(RESULT, 2))
+print("average eis", round(RESULT, 2))
